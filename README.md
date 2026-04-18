@@ -1,0 +1,1 @@
+[![Tests](https://github.com/AleksandrMuzhev/ajs-iterator/actions/workflows/tests.yml/badge.svg)](https://github.com/AleksandrMuzhev/ajs-iterator/actions/workflows/tests.yml)
